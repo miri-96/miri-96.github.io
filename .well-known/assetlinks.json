@@ -1,0 +1,15 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls",
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.poc.morabanc",
+            "sha256_cert_fingerprints": [
+                "66:F5:62:77:76:86:A3:58:7B:03:D1:F6:87:CD:E2:B9:76:80:9D:1B:25:72:35:F4:EE:BB:2B:D2:64:F4:0B:13"
+            ]
+        }
+    }
+]
